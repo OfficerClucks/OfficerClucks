@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OfficerClucks
 - 👀 I’m interested in doing cyber security and pen testing
 - 🌱 I’m currently learning  Splunk and java
-- 💞️ I’m looking to collaborate on Open source projects and flipper zero prokects
+- 💞️ I’m looking to collaborate on Open source projects and flipper zero projects
   
 
 <!---
