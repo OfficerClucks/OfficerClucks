@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Frameworks,Python,and Splunk**
 
-- 👨‍💻 All of my projects are available at [officerclucks.github.io](officerclucks.github.io)
+- 👨‍💻 All of my projects are available at https://officerclucks.github.io
 
 - 📝 I regularly write articles on [officerclucks.github.io](officerclucks.github.io)
 
