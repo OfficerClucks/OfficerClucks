@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at https://officerclucks.github.io
 
-- 📝 I regularly write articles on [officerclucks.github.io](officerclucks.github.io)
+- 📝 I regularly write articles on http://bencru.site
 
 - 📫 How to reach me **Cruickshankben@gmail.com**
 
